@@ -1,7 +1,7 @@
 # SnakeAI
 Python script that runs a Snake game and tries to resolve it through NN &amp; genetic algorithm
 
-To start from 0 :
+To start from generation 0 (first occurrence):
 
     > python3 snake_ia_no_interface.py
 
