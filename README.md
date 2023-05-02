@@ -5,7 +5,7 @@ To start from generation 0 (first occurrence):
 
     > python3 snake_ia_no_interface.py
 
-To start at generation 10 :
+To start at generation 10 :   #requires to have generated the 9th generation in the same folder (GENERATION9.json)
 
     > python3 snake_ia_no_interface.py 10
     
