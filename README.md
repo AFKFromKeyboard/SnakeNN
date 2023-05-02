@@ -11,3 +11,7 @@ To start at generation 10 :
     
 Each generation generates a number of snakes (300, 500, etc) and saves the 10 best to be replicated for the next generation.
 These parameters can be changed at the top of the script.
+
+To generate statistics about the generations (best snake, average score, eaten apples, ...) :
+
+    > python analyze_GENERATIONS.py
