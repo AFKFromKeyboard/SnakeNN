@@ -3,7 +3,7 @@ Python script that runs a Snake game and tries to resolve it through NN &amp; ge
 
 - Each generation generates a number of snakes (300, 500, etc)
 - The 10 best are selected to be replicated for the next generation
-- Mutations can occur whenever during the generation of a snake: **every new weight has a change to mutate**.
+- Mutations can occur at any time during the generation of each snake: **each new weight has a chance of mutating**.
 
 These parameters can be changed at the top of the script.
 
